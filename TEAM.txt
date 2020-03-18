@@ -15,8 +15,8 @@ The works by individuals ( Please add here what are you working on/have done):
 
 
 4- Walaa Alnasser:
-
-
+Analize tge data, and share one example on github and on google drive.
+Working currently on BERT.
 5-Saad Shaikh:
 
 
