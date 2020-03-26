@@ -8,7 +8,7 @@ The works by individuals ( Please add here what are you working on/have done):
 1-  Kriti Gupta : 
 
 
-2-Soumya Khare :
+2-Soumya Khare : Read CliCR, BERT, BioBert and other related papers, Analyzed the data and explained with reasons as how to find the answers from the passage, Shared 15 datapoints on github and google drive, currently tring to understand how BERT and BioBert functions.
 
 
 3-Aditya Krishna Sai Pulikonda:
