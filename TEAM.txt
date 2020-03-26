@@ -15,7 +15,7 @@ The works by individuals ( Please add here what are you working on/have done):
 Read CliCR , BioBERT and related papers. Worked on running the baseline code and implemented SQuAD v1.1, v2.0 on BERTBase to gain a good understanding of QA datasets and BERT model. Applied BERT on the converted CliCR dataset and currently working on running CliCR on BioBert
 
 4- Walaa Alnasser:
-Reading CliCR dataset paper, Analyze the data, share one example on github and on google drive, Reading about BERT and run some example, Writing the report on overleaf.
+Read CliCR dataset paperm read BERT paper, and other related research papers and articals. Analyze the data and illustrate the example to show how to find the answer from the passage. Share one example on github and on google drive, trying to understand how to Run BERT and run some basic examples. Writing the report on overleaf.
 
 
 5-Saad Shaikh:
