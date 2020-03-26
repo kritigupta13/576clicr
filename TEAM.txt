@@ -15,7 +15,7 @@ The works by individuals ( Please add here what are you working on/have done):
 
 
 4- Walaa Alnasser:
-Reading CliCR dataset paper, Analize the data, share one example on github and on google drive, Reading about BERT and run some example, Starting the report on overleaf.
+Reading CliCR dataset paper, Analize the data, share one example on github and on google drive, Reading about BERT and run some example, Writing the report on overleaf.
 
 
 5-Saad Shaikh:
