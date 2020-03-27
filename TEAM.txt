@@ -20,5 +20,5 @@ Read CliCR dataset paperm read BERT paper, and other related research papers and
 
 
 5-Saad Shaikh:
-
+Read CliCR research paper that was written by the original creators of this project. Tried running the baseline models but came across a lot of errors. Proceeded by performing data analysis on the training data for the time being and tried to understand the format of the data by illustrating an example of how the answer is fitting into the placeholder tag in the query and where the answer is originating from. 
 
