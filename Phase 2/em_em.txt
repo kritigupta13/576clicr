@@ -1,0 +1,143 @@
+{'answers': {'text': '', 'origin': 'dataset', 'sem_type': 'problem', 'cui': 'C0206061'}, 'id': 'bcr-03-2012-5973.1', 'query': 'Clinicians should be aware that in patients treated with  can occur as an adverse reaction of this drug .', 'is_impossible': True}
+
+Cetuximab is a monoclonal antibody that treats malignant disease by inhibiting epidermal growth factor receptor .
+Many common adverse events have been reported and include skin rashes , infusion reactions , gastrointestinal complaints and headache .
+Up to now , cetuximab - associated pulmonary toxicity has been rarely reported in the literature .
+The present report describes two cases with probable interstitial pneumonitis 5 – 6 weeks after commencing treatment with chemotherapy combined with cetuximab .
+One patient recovered and the second patient died due to gastrointestinal bleeding 3 weeks after an initial response to steroids .
+
+Background
+
+Cetuximab ( marketed under the registered trade name Erbitux ) is a chimeric ( mouse / human ) monoclonal antibody which inhibits the epidermal growth factor receptor ( EGFR ) . Through binding to the extracellular domain of EGFR , it interrupts the signalling cascade resulting in inhibition of cell growth and induction of apoptosis .
+Furthermore , cetuximab decreases matrix metalloproteinase and vascular endothelial growth factor production .
+1 It is administered by intravenous infusion for treatment of EGFR expressing metastatic colorectal cancer and squamous cell carcinoma of the head and neck .
+Cetuximab - associated pulmonary toxicity has been rarely described in the literature .
+Here , we report on two patients who acquired an interstitial pneumonia most likely caused by cetuximab , since these patients did not improve despite the initiation of antimicrobial treatment .
+
+Case presentation
+
+Case 1
+
+A 61 - year - old Caucasian man was admitted to our hospital with dyphagia resulting in a weight loss of 5 kg undergoing treatment for a cT4b cN2c mesopharynx carcinoma diagnosed 2 months ago .
+Induction chemotherapy with three cycles of docetaxel , cisplatin and 5 - fluorouracil was administered .
+As a complication of this treatment , the patient developed febrile neutropenia without a septic focus and was empirically treated with cefepime .
+After partial remission , intensity - modulated radiation therapy was administered to the primary tumour including lymph nodes to a total dose of 70 Gy given in daily 2 - Gy fractions combined with cetuximab ( total six cycles , loading dose 600 mg , then 400 mg ) .
+On admission , the patient had no fever and physical examination revealed an acne - like skin rash of the neck which is a common side effect of cetuximab .
+Laboratory tests showed an elevated C - reactive protein of 106 mg / l .
+White blood cell count was normal with 3560 / μl .
+No chest x-ray was performed in the absence of pulmonary symptoms .
+Gastroscopy showed an erosive bulbitis which was interpreted along with the mucositis within the radiation field , as an additional cause of the dysphagia .
+The patient was commenced on amoxicillin / clavulanic acid on the assumption of a superinfection within the mesopharynx and on a proton pump inhibitor to treat the erosive bulbitis .
+In addition , a percutaneous endoscopic gastrostomy ( PEG ) was placed .
+A few days later , the patient developed pain in the upper abdomen and the PEG insertion site was slightly erythematous , suggestive of a PEG site infection .
+A superficial swab revealed growth of Enterobacter cloacae ( with AmpC expression ) .
+Therefore , antimicrobial treatment was switched to ertapenem .
+Owing to increased infective parameter ( C - reactive protein of 165 mg / l ) , the infectious diseases service was consulted regarding further diagnostic steps and treatment .
+
+Patient 2
+
+The second patient , a 65 - year - old Caucasian man , was also admitted to our hospital for commencement of PEG or nasogastric feeding for management of dyphagia .
+He suffered from both tonsillar squamous cell carcinoma and oesophageal adenocarcinoma .
+For the former , radiotherapy was administered starting 4 weeks before admission in combination with cetuximab 2 weeks after starting radiotherapy .
+Carboplatin and taxol were added for treatment of the oesopophageal carcinoma .
+Four days after stopping cetuximab and carboplatin , the patient developed fever with left renal pain .
+Physical examination revealed no pathological findings except for dermatitis of the neck which was interpreted as cetuximab - associated skin toxicity .
+Empiric antibiotic treatment with ceftriaxone was started , assuming a nosocomial pyelonephritis .
+The infectious diseases service was consulted for advice regarding further management .
+
+Investigations and treatment
+
+Patient 1
+
+Owing to persistent subfebrile temperatures and previous abdominal pain , nosocomial urinary tract infection or catheter - related blood stream infections were excluded by repeated blood and urine cultures .
+No ascites or signs of cholecystitis were observed in ultrasound and CT of the abdomen .
+A subsequent CT of the lung showed ground - glass consolidation in the upper lobe and a small area of consolidation in the inferior lobe of the right lung .
+Owing to immunosuppression , Pneumocystis jiroveci and Legionella pneumophila serovar type 1 was excluded by induced sputum ( Immunofluorescence stain , Kinyoun stain ) and by urinary antigen , respectively .
+A repeat CT due to persistent fever and development of oxygen desaturation 3 days later showed a massive pleura effusion and a large consolidation with air bronchograms in the upper and lower lobe of the right lung ( figure 1A ) .
+The pleural effusion was punctured and antibiotic treatment was changed from ertapenem to meropenem .
+The pleural fluid showed only 610 cells with 55 % neutrophils , 7.5 % lymphocytes and 22 % of monocytes .
+Microbiology testing was negative .
+Owing to a high risk of a need for intubation , no bronchoalveolar lavage ( BAL ) was performed .
+The clinical constellation of persisting fever in the absence of proven microbial infection , concomitant treatment with a broad spectrum antibiotic and a ground - glass pattern in the CT was not suggestive for bacterial pneumonia ;
+therefore , treatment with oral prednisone 100 mg daily was started .
+
+Radiological finding in patient number 1. ( A ) Two CT scans of the lung 3 days apart showing a rapid progressive infiltrate prior to steroid treatment ( attached as TIFF graphic ) . ( B ) Conventional chest x-ray 7 days after steroid treatment .
+
+Patient 2
+
+Pyelonephritis was excluded by ultrasound of the kidney and by repeated blood and urine cultures .
+Ceftriaxone was changed to piperacillin - tazobactam due to the nosocomial setting .
+Four days later , the patient developed a productive cough with yellow sputum and dyspnoea .
+Chest x-ray showed an infiltrate below the right hilum .
+CT excluded pulmonary emboli and revealed large ground - glass opacities in both lungs ( figure 2 ) .
+Owing to increased dyspnoea 5 days after the onset of fever , a BAL was performed and intravenous trimethoprim / sulfamethoxazole ( 320 / 1600 mg ) four times a day and oral prednisone ( 40 mg ) twice a day was empirically started due to possible P jiroveci pneumonia .
+BAL showed a total cell count of 100 / µl ( 23 % neutrophil granulocytes , 6.5 % lymphocytes and 70.5 % macrophages ) without growth of bacteria , mycobacteria or fungi and immunofluorescent stainings for P jiroveci were negative .
+Molecular analyses of respiratory viruses including adenovirus , rhinovirus , cytomegalovirus , human respiratory syncytial virus , influenza and parainfluenza , were negative .
+No peripheral eosinophilia was documented .
+
+Differential diagnosis
+
+Patient 1
+
+Differential diagnosis included bacterial , viral or fungal pneumonia , or toxic pneumonitis due to cetuximab .
+The lung pathology as demonstrated on CT was clearly outside of the radiation fields ; thus , irradiation pneumonitis could be excluded .
+
+Patient 2
+
+Owing to administration of cetuximab and taxotere , a toxic pneumonitis was proposed .
+Differential diagnoses of the pulmonary damage were previous radiotherapy , lymphangitis carcinomatosis or pneumonia due to virus , atypical bacteria or fungi which was unable to be isolated in the BAL .
+
+Outcome and follow - up
+
+Patient 1
+
+Fever normalised within 2 days of steroid treatment .
+C - reactive protein decreased from a maximum value of 126 to 8.6 mg / l in 7 days and chest x-ray was almost normal at that time ( see figure 1B ) .
+The patient was discharged 10 days after starting steroids .
+
+Patient 2
+
+Within 5 days after starting steroids , symptoms and laboratory findings markedly improved .
+However , 15 days later , the patient required admission to the intensive care unit due to gastrointestinal bleeding .
+He developed a severe acute respiratory distress syndrome ( ARDS ) , including a multiple organ dysfunction syndrome and died 5 days later .
+Autopsy showed bronchitis with diffuse alveolar dysfunction with several small lung metastases of 2 mm ( squamous cell carcinoma ) .
+Additionally , a thrombotic endocarditis of the mitral valve with ischaemic infarction of the heart , brain , kidney and spleen was reported .
+
+Discussion
+
+Five to 6 weeks after starting treatment with cetuximab both patients presented with fever , shortness of breath and pulmonary ground - glass opacities and consolidation in CT .
+Interstitial pneumonia was suspected .
+Whereas in patient 1 the CT - findings were comparable to a cryptogenic organising pneumonia caused by drugs , the ground - glass opacities in patient 2 were similar to an exogenic allergic alveolitis .
+Whereas no causative pathogen of the pneumonia was found ( negative pleura effusion in patient 1 , negative bronchoalveolar lavage in patient 2 ) and no response to antimicrobial treatment was observed ( table 1 ) , toxic pneumonitis due to previous chemotherapy with cetuximab , cisplatin / carboplatin , taxol and / or docetaxel was discussed .
+
+Characteristics of our two patients compared to the only patient reported in the literature so far
+
+We favoured cetuximab because both patients suffered from active dermatitis coincidentally and developed pulmonary signs and symptoms that started 5 – 6 weeks after the first dose of cetuximab .
+
+In addition to cessation of cetuximab , further strategies to treat toxic interstitial pneumonitis include symptomatic treatment and the use of corticosteroids .
+In both patients , fever , pulmonary signs and C - reactive protein rapidly resolved within a few days after initiation of steroid treatment .
+Despite an initial improvement of pneumonitis , patient 2 developed gastrointestinal bleeding with subsequent ARDS resulting in death 5 days later .
+Alveolar damage seen at autopsy could not distinguish between damage due to ARDS after gastrointestinal bleeding , cetuximab side effects or other reasons as the pathological findings were non-specific .
+Nevertheless , the alveolar damage seemed to be older than 5 days , suggesting cetuximab toxicity .
+Although not proven due to the non-specific signs and symptoms , we strongly believe that the interstitial pneumonia was related to cetuximab therapy .
+
+Cetuximab is a biological treatment of malignancy which inhibits epidermal growth factor receptor ( EGFR ) .
+Common adverse events are dermatologic reactions , infusion reactions , gastrointestinal complaints and headache .
+Up to now , cetuximab - associated pulmonary toxicity has only rarely been described in the medical literature3 , 4 , 6 but there are several reports of interstitial fibrosis in patients treated with other EGFR inhibitors such as gefitinib and erlotinib outside of clinical trials .
+In a retrospective study of Hoag et al , 4 patients with colorectal , lung and head and neck cancer receiving chemotherapy combined with cetuximab had significantly more pulmonary symptoms than patients not receiving cetuximab ( 10.3 % vs 8.3 % ) .
+In the subanalysis in patients with head and neck cancer , no significant difference was observed ( 17.9 % vs 20.1 % ) .
+Interestingly , pulmonary side effects in patients with a non-small cell lung cancer were much more common in the cetuximab versus the control group ( 18.7 % vs 12.2 % , p & lt ; 0.001 ) .
+This may suggest that an underlying lung disease could be a risk factor for pulmonary cetuximab toxicity .
+Although our patients lacked an underlying lung disease they both received previous radiochemotherapy .
+However , up to now there have been no published reports to support a potential hypothesis that radiotherapy may be an additional risk factor .
+Furthermore , our patients received irradiation outside of the areas where the interstitial pneumonitis was seen in CT .
+In a recently published study from Kang et al6 low albumin level was identified as a risk factor for developing an adverse pulmonary reaction in patient taking cetuximab , rituximab , trastuzumab or bevacizumab .
+The low albumin level in our two patients ( 28 and 24 g / l ) supports this hypothesis .
+Both patients were of Caucasian ethnicity and therefore a genetic causality for the side effects observed can not be ruled out .
+For example , it has been shown that Stevens - Johnson syndrome and its related toxic epidermal necrolysis induced by carbamazepine are strongly linked to the HLA - B 1502 allele7 and severe hypersensitivity reactions caused by abacavir were linked to the HLA - B 5701 allele ” .
+
+In summary , we recommend that clinicians should be alert to the possibility of adverse pulmonary reactions if cetuximab treatment has been given in the weeks preceding the onset of pulmonary symptoms .
+After exclusion of infectious pneumonia , drug - induced toxicity should be considered and treatment with corticosteroids should be promptly started .
+
+Actual Answer  = ''
+Predicted Answer = ''

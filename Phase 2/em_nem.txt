@@ -1,0 +1,130 @@
+{'answers': {'text': '', 'origin': 'dataset', 'sem_type': 'problem', 'cui': 'C0751373'}, 'id': 'bcr-2015-214104.5', 'query': 'Consider glossopharyngeal neuralgia in patients presenting with  and be aware of the potential cardiovascular consequences : bradycardia , severe hypotension and even cardiac arrest .', 'is_impossible': True}
+
+Summary
+
+Glossopharyngeal neuralgia is a rare pain syndrome presenting with paroxysms of pain in the region of the glossopharyngeal nerve .
+Even more uncommon is the association between glossopharyngeal neuralgia and cardiac syncope .
+In these patients , the cardiovascular consequences may include bradycardia , hypotension and cardiac arrest .
+We describe the case of a 40 - year - old patient who presented with this rare association of glossopharyngeal neuralgia and syncope .
+Multiple pauses including one lasting 14 s were noted on ambulatory ECG monitoring .
+In this case , the patient declined pharmacological treatment with carbamazepine or with permanent pacing and so far has been in remission from symptoms for 3 months .
+
+Background
+
+Glossopharyngeal neuralgia ( GN ) is a rare facial pain syndrome characterised by paroxysms of severe pain in the distribution of the glossopharyngeal nerve .
+Even rarer is the association between GN and syncope , when it may then be termed vagoglossopharyngeal neuralgia .
+1 In these patients , GN may be associated with episodes of bradycardia , severe hypotension and even cardiac arrest leading to syncope .
+While GN is commonly misdiagnosed as the much more common trigeminal neuralgia , this is an important diagnosis not to miss , as the potential cardiac consequences may be life - threatening .
+
+We present a case of a patient with GN associated with cardiac syncope , presenting with collapse and significant nocturnal pauses on ECG monitoring .
+
+Case presentation
+
+A 40 - year - old man initially presented to his general practitioner , with symptoms of throat pain associated with light - headedness and palpitations .
+The throat pain had been occurring intermittently over the preceding 3 months and was described as ‘ shooting , rippling or pulsing ’ deep in the right side of his throat , worse on swallowing .
+This pain never occurred on the left side .
+While on holiday 9 months previously , he had experienced several episodes of light - headedness associated with the same pain and described several brief episodes of collapse .
+He was admitted twice while on holiday and reported being told that he was dehydrated and his blood pressure was low .
+On his return , he was admitted to hospital elsewhere , with throat pain and associated collapse .
+The only abnormality found at that time was sinus bradycardia .
+On discharge , he was advised to attend his general practitioner to be referred for 24 h ECG monitoring .
+
+He had a medical history of generalised anxiety disorder and post viral fatigue syndrome .
+There was no family history of note .
+
+His general and neurological examination , including cranial nerve examination , was normal .
+
+Investigations
+
+Chest radiograph , echocardiogram , full blood count , routine biochemistry and a short synacthen test were all normal .
+
+Twenty - four hour ECG recording reported sinus rhythm with a pause of 14 s at 05 : 22 am along with multiple other shorter nocturnal pauses ( figure 1 ) .
+On questioning , it was revealed that the patient had been awake at this time and experiencing throat pain , but had not collapsed .
+Following this , he underwent a tilt table test , during which he experienced multiple paroxysms of throat pain that allowed a clear relationship between paroxysms of pain and episodes of bradycardia to be demonstrated ( figures 2 and 3 ) .
+
+Differential diagnosis
+
+The differential diagnosis included trigeminal neuralgia , superior laryngeal neuralgia ( affecting the superior laryngeal branch of the Xth cranial nerve ) and naevus intermedius neuralgia ( affecting the somatic sensory branch of the VIIth cranial nerve ) .
+GN occurs with a frequency of about 1 % that of trigeminal neuralgia but has very similar pain characteristics as well as adjacent locations of pain and similar triggers .
+GN occurs more frequently on the left , while trigeminal neuralgia occurs more commonly on the right .
+Bilateral involvement is found more commonly in trigeminal neuralgia .
+
+Superior laryngeal neuralgia is a paroxysmal pain syndrome characterised by paroxysms of pain usually localised to one side of the larynx .
+Identified trigger factors include swallowing , straining the voice , singing and turning the head .
+Application of topical anaesthesia to the larynx or blockade of the superior laryngeal nerve should stop the pain and can be used as a diagnostic test .
+More rarely , GN may need to be distinguished from nervus intermedius neuralgia , which produces intermittent stabbing pain in the ear .
+Nervus intermedius neuralgia is always unilateral and usually occurs spontaneously , although it may be triggered by stimulation of the ear canal , or swallowing or talking .
+6 The medical management is identical to that of GN .
+
+Outcome and follow - up
+
+In this case , the patient declined pharmacological treatment with carbamazepine or insertion of a permanent pacemaker .
+He remains in remission and has had no further throat pain and no episodes of collapse for the past 3 months .
+
+Discussion
+
+Paroxysms of pain in the region of the glossopharyngeal nerve were first described in 1910 by Weisenberg7 in a 35 - year - old patient with a right cerebellopontine angle tumour .
+The International Headache Society ( IHS ) has described GN as ‘ a severe transient stabbing pain experienced in the ear , base of tongue , tonsillar fossa or beneath the angle of the jaw ’ .
+The onset of GN is typically sudden .
+Episodes of pain last from several seconds to minutes , with intervals between the paroxysms lasting from minutes to hours .
+The intervals between clusters are irregular but can range from days to years with patients being asymptomatic between episodes .
+Patients often have difficulty in identifying triggers of pain , most likely as it involves the deep structures of the mouth , pharynx and ear .
+Most frequently , swallowing triggers the paroxysms of pain , although chewing , yawning and speaking have also been implicated .
+
+Most cases of GN are idiopathic — most likely these are caused by compression of the nerve by the posteroinferior cerebellar artery as the nerve enters or exits the brainstem .
+10 Secondary GN can occur due to compression of the glossopharyngeal nerve by structural lesions including cerebellopontine angle tumours , laryngeal and nasopharyngeal tumours , cranial base tumours , oropharynx and tongue tumours , and by intracranial vascular compression parapharyngeal abscesses , trauma , dental extractions , Paget 's disease , direct carotid puncture and an elongated styloid process ( Eagle 's syndrome ) , among other causes .
+1 , 7 , 9 , 11 – 13
+
+As there is no specific diagnostic test for GN , the diagnosis is made on clinical grounds .
+It has been recommended that all patients with GN be referred to an ear , nose and throat physician to investigate a potential structural cause .
+Imaging of the brain stem to identify tumours , or possible vascular compression , is recommended .
+Furthermore , a high resolution CT scan of the neck can identify an elongated styloid process .
+1
+
+In 1942 , Riley et al14 first reported the association of GN with brief episodes of bradycardia , hypotension and asystole causing cardiac syncope .
+The association of GN with cardiac syncope is rare .
+In a Mayo clinic review of 217 patients with GN , in 1981 , only four were identified as having cardiac syncope .
+11
+
+The mechanism by which GN leads to cardiac syncope is not yet fully elucidated .
+Usually , there appears to be a latency period between the symptoms of neuralgia and the first syncopal event .
+15 Very rarely , GN has presented with syncope and without the associated pain syndrome .
+16 Most proposed mechanisms are based on the close anatomical relationship of the glossopharyngeal and vagus nerves in the medulla oblongata and the possibility of the formation of a vagoglossopharyngeal reflex arc .
+It is proposed that the afferent nerve impulses travelling within the glossopharyngeal nerve may reach the nucleus of the tractus solitarius in the midbrain and , through collaterals , reach the dorsal nucleus of the vagus nerve .
+Additionally , the fibres of the carotid sinus nerve , also known as Hering 's nerve , join the glossopharyngeal nerve and terminate in the dorsal nucleus of the vagus nerve , providing a route by which glossopharyngeal afferent impulses may produce vagal nerve stimulation .
+Finally , Gardner et al19 proposed that there may be anomalous communication between the nucleus of the tractus solitarius and nucleus ambiguous mediated by the development of synapses on the fibres of cranial nerves IX and X .
+
+Therapeutic options described for GN may be pharmacological or surgical .
+For idiopathic GN , the first - line treatment is usually pharmacological and similar to the management of trigeminal neuralgia .
+Anticonvulsants including carbamazepine , gabapentin , lamotrigine , phenytoin , oxcarbazepine and pregabalin , have all been used in the treatment of GN with the most evidence being available for carbamazepine .
+Indeed , treatment with carbamazepine can lead to resolution of pain from neuralgia as well as resolution of cardiac symptoms .
+15
+
+In patients who are unresponsive to pharmacological interventions , surgical options may be considered .
+The surgical procedure with the highest rate of success for patient with idiopathic GN is microvascular decompression .
+In a recent review , Rey - Dios and Cohen - Gadol22 reported the outcomes of 454 patients from 14 different series undergoing microvascular decompression of cranial nerves IX and X .
+The mean follow - up duration was 4.9 years .
+The rate of resolution of pain for patients undergoing microvascular decompression was 84.7 % with recurrence in 7 % of patients .
+Transient cranial nerve X dysfunction defined as dysphagia , hoarseness or both , occurred in 13.2 % of patients treated with microvascular decompression and a permanent cranial nerve deficit occurred following 5.5 % procedures .
+In contrast , the long - term rate of pain control for 157 patients who underwent rhizotomy of the upper cranial nerve rootlets of cranial nerve X was higher at 87.3 % , however , the rate of transient and permanent cranial nerve X deficits was increased at 25 % and 19.1 % , respectively .
+Overall , rhizotomy appears to have higher rates of pain control at the expense of high rates of postoperative cranial nerve X dysfunction .
+22
+
+Gamma Knife radiosurgery has also been reported to be effective in the treatment of GN , particularly for an elderly patient group who may not be fit for conventional surgery and may benefit from a minimally invasive approach .
+O ' Connor and Bidiwala23 presented a case series in which 13 of the 15 ( 87 % ) patients treated with radiosurgery achieved significant pain relief without any reported adverse effects .
+
+Pacemakers can prevent bradycardia during paroxysms of pain .
+In the treatment of GN associated with syncopal episodes , pacing has been used with varying degrees of success .
+Johnston and Redding15 reported a case of a 53 - year - old patient in whom pain and syncope completely resolved following the insertion of a permanent pacemaker and treatment with carbamazepine .
+Furthermore , in the case presented by Korkes et al24 where the patient had syncope associated with swallowing , since the insertion of a permanent pacemaker , the patient has been free of syncopal episodes ( 35 months of follow - up ) .
+Similarly , Hie and Ruiter25 described a case of a 60 - year - old patient treated with a permanent dual - chamber pacemaker , who had complete resolution of syncopal episodes , although she did continue to experience episodic neuralgia .
+In contrast , the patient presented in Barbash et al2 failed to respond to the insertion of a temporary intravenous pacemaker .
+Likewise , the patient described by Roa and Krupin26 continued to be hypotensive despite having a capturing transvenous pacemaker .
+It is important to note that , while a pacemaker may prevent syncopal episodes , it will have no therapeutic effect on the pain syndrome , and this is hence why some authors feel that , where possible , a surgical option should be pursued where pharmacological therapy has proved ineffective .
+
+In summary , GN is an unusual pain syndrome , important not only as it has the potential to cause extreme distress among sufferers , but also as it has the potential to cause significant cardiovascular compromise including severe hypotension , syncope and cardiac arrest .
+While trigeminal neuralgia is a far more common pain syndrome , we urge clinicians to bear in mind the potential diagnosis of GN in those presenting with paroxysmal pain in the region of the tongue , pharynx or ear and to be aware of the potential relationship with syncope .
+
+
+Actual Answer = ''
+Predicted Answer = 'cardiac syncope'

@@ -1,0 +1,77 @@
+{'answers': {'text': 'low energy insult', 'origin': 'dataset', 'sem_type': 'problem', 'cui': 'C0598698', 'answer_start': 6035}, 'id': 'bcr.02.2011.3890.25', 'query': '▶ Balloon kyphoplasty is a safe procedure for pain management in severe dystrophic patients , despite the susceptibility of fracture under  in these patients .', 'is_impossible': False}
+
+Summary
+
+Renal osteodystrophy is a spectrum of musculoskeletal abnormalities .
+Bony fractures can occur spontaneously or with minor trauma in this condition .
+The authors report the first case of balloon kyphoplasty treatment for painful renal osteodystrophy vertebral body collapse secondary to end - stage renal failure on dialysis .
+The authors have demonstrated that kyphoplasty is a safe procedure for pain management in severe dystrophic patients .
+In addition , pain treatment with kyphoplasty can be achieved without anatomical restoration of vertebral body height .
+
+Background
+
+Renal osteodystrophy is a spectrum of musculoskeletal abnormalities associated with chronic renal failure , and encompasses osteomalacia , rickets , osteosclerosis , secondary hyperparathyroidism and soft tissue and vascular calcification .
+A serious complication of renal osteodystrophy is bony fractures that can occur spontaneously or with minor trauma .
+We report the first case of balloon kyphoplasty treatment for painful renal osteodystrophy vertebral body collapse secondary to end - stage renal failure on dialysis .
+
+Case presentation
+
+A 47 - year - old woman of African origin presented with a 2 - year history of worsening back pain .
+The pain was thoracic in origin with radiation to the anterior abdomen wall .
+There was no bladder or bowel dysfunction .
+Her medical history included tertiary hyperparathyroidism secondary to renal osteodystrophy associated with end - stage renal failure , for which the patient was on an alternate - day dialysis regime .
+
+Investigations
+
+MRI and CT showed T8 - 9 vertebral bodies collapse with a retropulsed bony fragment abutting the ventral aspect of the dura without cord compression ( figure 1 ) .
+A CT - guided bone biopsy showed chronic metabolic changes .
+A culture for tuberculosis was negative .
+
+Outcome and follow - up
+
+The patient underwent a percutaneous balloon kyphoplasty at the T8 - 9 levels ( figure 2 ) .
+She had a slow but steady postoperative recovery with improvement in her pain control .
+There was no evidence of adjacent segment fracture as a result of kyphoplasty .
+Unfortunately , she later sustained spontaneous femoral fractures due to her widespread osteodystrophy .
+
+Discussion
+
+This is the first reported case of kyphoplasty treatment for renal osteodystrophy vertebral collapse , and illustrates the potential usefulness of such treatment for spinal pain control in this condition .
+Several factors in chronic renal failure contribute to the development of renal osteodystrophy .
+The uraemic state in chronic renal failure is inhibitory to calcification and in combination with the phosphate retention due to inefficient filtration leads to low serum calcium and osteomalacia .
+Additionally , the reduced bone mineralisation due to acquired insensitivity to vitamin D in turn stimulates parathyroid hormone secretion ;
+hypocalcaemia with hyper - phosphataemia lead to increased bone resorption and decreased bone density .
+A serious complication of renal osteodystrophy is bony fractures that can occur with minor trauma or , as in our case , spontaneously .
+The sites of fractures commonly involved include vertebral body fractures ( 3 – 25 % ) , rib or pubic rami fractures ( 5 – 25 % ) , metaphyseal fractures and those in Looser ’ s zones .
+The prevalence of fractures increases with the duration of haemodialysis and remains unchanged despite renal transplantation .
+Prognosis is variable as the degree of osteopaenia may stay unchanged or even worsen during dialysis or after transplantation .
+Predictive factors for vertebral fractures include a low serum level for intact parathyroid hormone in the presence of high or low serum alkaline phosphatase , and a low spine bone mineral density , though the gold standard is still bone biopsy .
+1 , – , 3
+
+Balloon kyphoplasty was first approved by the FDA in 19984 and in the USA alone it is annually used by about 3000 physicians to treat approximately 40 000 vertebral compression fractures .
+It was developed from the technique of percutaneous vertebroplasty originally described in France in 1984 for treating painful vertebral compression fracture .
+In both vertebroplasty and kyphoplasty there is radiologically guided intraosseous injection of acrylic cement .
+In kyphoplasty there is the added creation and filling of a balloon - induced cavity with methyl - methacrylate cement .
+In addition , there may be some degree of vertebral height restoration with balloon kyphoplasty .
+A previous case series looked at vertebral compression fractures secondary to metabolic disturbances in liver transplant patients and reported significant pain relief in these patients , despite only 30 % achieving more than 5 ° in sagittal alignment .
+5
+
+The main risks are cement leakage with possible spinal cord and nerve root compression , and adjacent segment fracture .
+6 A recent study of 300 patients found no significant difference in the kyphoplasty and control group with regard to the frequency of cardiopulmonary complications or death .
+
+Two hypotheses exist for the mechanism of pain reduction in kyphoplasty – heat production secondary to the polymerisation process as the acrylic substance hardens and prevention of painful motion of the fracture fragments achieved by acrylic fusion .
+
+These techniques came under doubt in the last couple of years after two recent randomised control trials comparing vertebroplasty versus sham vertebroplasty found them equally effective in reducing pain and improving function .
+89 Despite their limitations – for example , small numbers , high cross-over rate from sham to actual vertebroplasty – their results are respected , but not necessarily applicable to kyphoplasty also .
+Furthermore , another more recent randomised trial addressing kyphoplasty showed it to be safe and effective .
+10
+
+In this case report , we have demonstrated that kyphoplasty is a safe procedure for pain management in severe dystrophic patients despite the susceptibility of fracture under low energy insult in these patients .
+While the vertebral body height was not fully restored , there was significant symptom improvement , re-emphasising that primary objective of the procedure was pain control instead of restoration of anatomical height .
+
+To date , balloon kyphoplasty has been used in the treatment of vertebral collapses secondary to osteoporosis , trauma , metastatic tumours , multiple myeloma , haemangiomas and in transplant patients .
+This case report adds further evidence in the application of this procedure for the management of painful vertebral compression fractures as a result of metabolic bone disease in selected cases .
+
+
+Actual Answer = 'low energy insult'
+Predicted Answer = 'low energy insult'

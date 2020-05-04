@@ -1,0 +1,73 @@
+{'answers': {'text': 'pleural effusion', 'origin': 'dataset', 'sem_type': 'problem', 'cui': 'C0032227', 'answer_start': 167}, 'id': 'bcr-2013-010177.3', 'query': 'Re- expansion pulmonary edema is a rare but potentially fatal condition which can occur while managing patients with pneumothorax or  .', 'is_impossible': False}
+Summary
+
+Re- expansion pulmonary edema ( RPE ) is a rare but potentially fatal complication that can occur following rapid lung expansion while managing patients with pleural effusion or pneumothorax .
+In this case , fatal outcome occurred due to RPE in a previously healthy young adult male patient subsequent to tube thoracostomy for spontaneous pneumothorax .
+While managing patients with pneumothorax or large pleural effusions , precautions should be taken to avoid rapid re-expansion of the previously collapsed lung in order to reduce the probability of development of this complication .
+
+Background
+
+Re- expansion pulmonary edema ( RPE ) is a rare complication which is attributed to the rapid drainage of air or fluid from the pleural cavity .
+It has been reported to occur following either thoracentesis or tube thoracostomy .
+The attributed pathological mechanism is the abrupt reduction in the intrapleural pressure , especially as a result of extensive and rapid pneumothorax / pleural effusion drainage or rapid pulmonary expansion in cases where long - term pulmonary collapse has been present .
+These patients may develop varying degrees of hypoxia and hypotension and occasionally , pulmonary oedema which becomes bilateral , and the patient may require endotracheal intubation and mechanical ventilation .
+Rarely , the syndrome is fatal in otherwise healthy , young adult subjects without any underlying comorbid illnesses who develop this complication .
+
+Case presentation
+
+A 20 - year - old male patient presented to the emergency department at another healthcare centre with a history of sudden onset shortness of breath and left side chest pain , persistent for 5 days .
+The pain was sudden in onset , pleuritic in character and was not associated with radiation to any site .
+There was no history of fever , haemoptysis , wheezing , expectoration or any other comorbid illnesses .
+At the time subsequent to a chest radiograph ( figure 1 , left panel ) , a diagnosis of large left side spontaneous pneumothorax was made and an intercostal tube was inserted .
+Following tube thoracostomy , the patient developed worsening cough and shortness of breath associated with expectoration of pink frothy sputum .
+As there was progressive worsening of symptoms , the patient was referred to our centre .
+
+( left panel ) Posteroanterior chest radiograph showing the presence of a large left side pneumothorax with near total collapse of the underlying left lung .
+( right panel ) Chest radiograph following tube thoracostomy demonstrating unilateral alveolar opacities in the left hemithorax confirming the diagnosis of re-expansion pulmonary edema .
+
+At time of examination in the emergency room , the patient was cyanosed and pulse oximetric saturation ( SpO2 ) was 80 % while breathing oxygen ( FiO2 50 % ) with venturi mask .
+His pulse rate was 120 / min , respiratory rate 35 bpm with visible use of accessory muscles of respiration and blood pressure was 90 / 68 mm Hg .
+Coarse crepitations were audible in the left infrascapular and axillary areas .
+Rest of the systemic examination was unremarkable .
+Chest radiograph demonstrated diffuse alveolar infiltrates on the left hemithorax suggestive of unilateral pulmonary oedema ( figure 1 , right panel ) .
+A diagnosis of RPE was made .
+
+The patient was endotracheally intubated , mechanical ventilation was initiated and he was immediately shifted to respiratory intensive care unit .
+Mechanical ventilation with low tidal volume , high FiO2 and PEEP ( positive end expiratory pressure ) was delivered .
+Simultaneously supportive treatment , intravenous fluids and inotropes to maintain haemodynamic parameters were started .
+Despite the best available supportive treatment and mechanical ventilation , the patient developed refractory hypoxaemia and worsening haemodynamic instability .
+Refractory ventricular fibrillation ensued from which the patient could not be revived and the patient expired .
+
+Discussion
+
+RPE may be considered an iatrogenic complication because of rapid emptying of the pleural cavity which leads to rapid re-expansion of the collapsed lung .
+Pinault in 1853 first reported re- expansion oedema following pleural fluid aspiration and since then many reports of re- expansion oedema following pleural fluid aspiration have been reported .
+In 1959 , Carlson et al3 reported RPE in the setting of pneumothorax .
+In the following years , there were several case reports on the occurrence of RPE after drainage of spontaneous pneumothorax , resection of mediastinal tumours , thoracoscopy or talc pleurodesis .
+The reported incidence of RPE following drainage of pleural effusion / pneumothorax is between 0 % and 1 % .
+This is likely an underestimate as the syndrome of RPE may be silent and only manifest radiologically in some cases .
+Young patients ( 20 – 40 years of age ) with large pneumothorax and duration of pneumothorax greater than 7 days have been reported to be at the greatest risk of development of RPE .
+
+The proposed pathological mechanism in RPE is increased capillary permeability , which is evident from the high protein content of the oedema fluid , in both animal and human studies .
+
+Mechanical stresses to the lung during re- expansion cause damage to the capillary wall and leads to oedema formation .
+Another proposed possible mechanism is reperfusion injury due to reactive oxygen species ( ROS ) .
+However , several animal studies7 – 9 had shown a decrease in neutrophilic infiltration but not the amount of oedema when ROS - scavenging compounds such as dimethylthiourea , catalase or superoxide dismutase were administered in experimental situations .
+
+In humans , most cases of RPE develop when pneumothorax or pleural effusion have been present for at least 3 days and when negative pressure in the form of suction have been applied to the pleural space .
+Symptoms of RPE are pernicious coughing or chest tightness during or immediately after tube thoracostomy or thoracentesis which are progressive for 12 – 24 h. Serial chest radiographs reveal progressive unilateral pulmonary oedema , which may progress to involve the contralateral lung .
+Treatment is primarily supportive , with the administration of supplemental oxygen and diuretics , and endotracheal intubation and mechanical ventilation depending upon the individual case scenarios .
+Administration of CPAP ( continuous positive airway pressure ) within the first hour of the development of the syndrome was effective in one case report .
+10 Although most of the patients recover within 5 – 7 days , death rates may reach as high as 20 % in patients who develop this complication .
+6 A literature review in 1988 revealed 53 cases of RPE with a fatality rate of 21 % ( n = 11 ) .
+
+RPE can be fatal as highlighted by the index case ;
+therefore , the major focus should be on the prevention of its occurrence .
+While performing tube thoracostomy for spontaneous pneumothorax , the tubes should initially be connected to an underwater - seal drainage apparatus rather than to negative suction .
+If underwater - seal drainage does not cause re-expansion of the underlying lung within 24 – 48 h , then negative pressure ( preferably & lt ; 20 cm H2O ) can be applied to the pleural space .
+6 If a patient develops tightness of the chest or experiences coughing during thoracentesis , the procedure should be terminated .
+12 The volume of fluid drained during thoracentesis should usually be limited to 1 – 1.5 Litres .
+RPE as a diagnostic possibility must be considered in the differential diagnosis of any patient with a large pneumothorax or pleural effusion who develops worsening respiratory symptoms following tube thoracostomy or thoracentesis .
+
+Actual Answer - 'pleural effusion'
+Predicted Answer -  'large pleural effusions'

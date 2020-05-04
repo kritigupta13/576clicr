@@ -1,0 +1,113 @@
+{'answers': {'text': 'Diffuse malignant peritoneal mesotheliomas', 'origin': 'dataset', 'sem_type': 'problem', 'cui': 'C0854886', 'answer_start': 4942}, 'id': 'bcr-2013-200212.1', 'query': ' are rare tumours that present with rapid progression , and generally have a poor prognosis with a mean survival of 8 months following diagnosis .', 'is_impossible': False}
+
+Summary
+
+Peritoneal mesotheliomas are unusual entities with diverse origins and outcomes .
+Both benign and malignant variants exist .
+Benign multicystic peritoneal mesotheliomas ( BMPMs ) , also known as multiple or multilocular peritoneal inclusion cysts , are extremely rare tumours arising from the peritoneal mesothelium covering the abdominal serous cavity .
+Even though these entities are considered benign tumours , BMPMs tend to recur after surgical resection , and in two cases have been reported to undergo malignant transformation .
+In contrast , diffuse malignant peritoneal mesotheliomas , while also quite rare , are the second most common form of malignant mesothelioma after the pleural variety with extremely high mortality and poor response to many treatments to date .
+We present a rare case of diffuse malignant peritoneal mesothelioma within a large component of a BMPM in a young man admitted to our service .
+
+Background
+
+Case presentation
+
+The patient was a 32 - year - old otherwise healthy , Hispanic , construction worker with a 1 - year history of vague , diffuse abdominal pain .
+The patient did not have any history of abdominal distention , changes in bowel habits or weight loss .
+He had no significant medical history , with the exception of a previous intestinal parasitic infestation .
+Physical examination revealed a palpable right - sided , non-tender abdominal mass spanning from the lower liver edge to the right anterior superior iliac spine .
+
+Investigations
+
+Laboratory evaluation was normal .
+CT scan demonstrated a 14 cm multicystic abdominal mass in the right paracolic gutter beneath the liver , but failed to identify the organ from which the mass originated ( figure 1 ) .
+Invasion could not be ruled out .
+Upper gastrointestinal ( GI ) series and colonoscopy were negative .
+Percutaneous biopsies of the mass revealed only mesothelial hyperplasia .
+
+Treatment
+
+After discussion at a tumour conference , a decision was made to proceed with abdominal exploration and resection of the tumour .
+On entering the abdomen , a large mass was noted on the right side of the abdominal cavity , which appeared to be contiguous with the omentum .
+On initial inspection , the mass was closely adherent to the hepatic flexure , as well as the proximal and transverse colon .
+No other lesions or suspected implants were noted on the remaining peritoneal surface .
+
+The omentum was divided to grossly uninvolved tissue around the mass and was lifted .
+The complete specimen was removed en bloc after it was resected from the remaining omentum , the lateral peritoneal attachment to the abdominal wall , the right colon and finally the transverse colon , whose posterior wall was accessed through the lesser sac .
+The mass was excised without resection of the colon or other intra-abdominal organs .
+No gross invasion was noted .
+The abdomen was closed , and the patient was discharged home without immediate complications .
+
+Outcome and follow - up
+
+Pathological examination revealed a large , irregular , multicystic mass , approximately 20 cm in diameter , weighing 640 g .
+The cysts varied in size and contained serosanguinous and mucoid material ( figure 2 ) .
+Microscopic analysis revealed two different components .
+The majority of the mass consisted of multiple cystic spaces lined by reactive mesothelial cells , with stromal oedema and fibroblastic proliferation , consistent with a benign multicystic mesothelioma ( figure 3 ) .
+
+H & amp ; E stain : cystic spaces lined by mesothelial cells ( original magnification × 40 ) .
+
+Approximately 1 month following discharge , the patient returned with recurrent abdominal and pelvic pain .
+A repeated CT scan demonstrated several subcentimetre pulmonary nodules , as well as a pelvic fluid collection , which was percutaneously drained .
+No malignant cells were noted on cytology .
+
+A third CT scan approximately 4 months following this episode showed the presence of a solid mass measuring about 6 cm in the left lower quadrant , along with two additional pelvic masses which measured 3 and 5 cm in maximum diameter , as well as suspected serosal implants .
+Given these suspicious findings , pathology of the original specimen was reviewed again , and a small area less than 1 % of the specimen was found to have florid mesothelial proliferation associated with a moderate degree of atypia , cytoplasmic vacuolisation and stromal invasion with a cord - like arrangement was noted ( figure 4 ) .
+Immunohistochemical staining was positive for calretinin , CK 8 / 18 and focally for desmin and progesterone receptor .
+CD 34 , CD 31 , factor VIII and CD 68 were negative .
+This was consistent with a malignant peritoneal mesothelioma .
+The patient subsequently underwent peritoneal debulking with hyperthermic intraperitoneal chemotherapy ( HIPEC ) at another institution .
+He remains disease - free 4 years following his initial presentation .
+
+Discussion
+
+Diffuse malignant peritoneal mesotheliomas ( DMPMs ) were once exceedingly rare entities , until a dramatic increase in the 1930s , likely due to increased asbestos use .
+The peritoneum is now the second most common location for malignant mesotheliomas , comprising about 10 – 25 % of patients diagnosed with the disease , the remainder being primarily thoracic .
+Nonetheless , despite their increased rate of occurrence , they still remain rare , at a rate of 2.2 per million per year in the USA .
+Despite a variable growth rate , these cancers often present with remarkably florid and rapid progression .
+
+Owing to their association with asbestos , they are predominantly found in middle - aged and elderly men , usually of low socioeconomic status .
+Given their rarity , no recognised staging system is available , nor are there uniformly accepted / established treatment protocols for these patients .
+4 – 6
+
+Diagnosis can be very difficult preoperatively , as imaging , cytology and histological findings are usually not specific and overlap with other tumours .
+Immunohistochemistry is currently the best method of diagnosis .
+In particular , calretinin , thrombomodulin and keratin 5 / 6 are the best positive markers for differentiating epithelial malignant mesotheliomas from papillary serous carcinomas of the peritoneum , as well serous carcinoma of the ovary .
+
+Asbestos exposure is the only known risk factor , related to the tumour in as many as 87 % of cases in some series .
+Presentation is typically 30 – 40 years after exposure with a mean age of 63 at diagnosis .
+
+Initial presenting symptoms include dull abdominal pain , distention or mass , ascites , weight loss , fever , bowel obstruction , thrombocytosis and fatigue .
+Two hypotheses exist as to how asbestos exposure leads to peritoneal cancer .
+The first is that the crystals are ingested and over time slowly migrate from the lumen of the GI tract to the peritoneum .
+The second hypothesis is that the crystals are carried to the peritoneum via the lymphatic system .
+
+DMPMs present in the vast majority of the cases as multiple plaques or nodules over the peritoneum , sometimes associated with dense adhesions , shortening of the mesentery and almost always associated with ascites .
+The tumour can very rarely present as a solitary mass .
+
+Prognosis is poor and surgery is often not an option , as the majority of malignant peritoneal mesotheliomas are in their advanced stages at the time of discovery .
+
+This condition has been traditionally regarded as a rapidly lethal disease , with a mean survival of 8 months following diagnosis .
+Recent multi-institutional trials have attempted to improve the prognosis combining an aggressive surgical cytoreduction with perioperative HIPEC .
+In particular , Yan et al recently published a data registry of over 400 patients treated with surgical debulking and HIPEC at different institutions .
+The authors report an overall median survival of 53 months ( 3 - year and 5 - year survival rates were 60 % and 47 % , respectively ) .
+On multivariate analysis , the epithelial subtype , absence of lymph node metastasis , completeness of cytoreduction and HIPEC were identified as prognostic factors independently associated with improved survival .
+
+This case report highlights multiple aspects of diagnosis and management of a very rare disease which presents with atypical characteristics in this particular patient .
+
+First , the presentation of the disease resembles a benign peritoneal mesothelioma , considering the patient 's age , the finding of a single mass lesion with no gross signs of peritoneal dissemination , the fact that the patient was unlikely to have received a significant enough exposure to asbestos to result in a malignant mesothelioma during his relatively short time in construction , and the report of previous chronic abdominal inflammatory condition ( parasitic infestation ) .
+This diagnosis was supported by the initial pathological examination .
+
+Unfortunately , the extremely aggressive behaviour of the tumour after surgical resection prompted a second review of the specimen with the identification of a small focus of malignant mesothelioma arising in a diffuse background of Benign multicystic peritoneal mesotheliomas ( BMPM ) , which changes the diagnosis to malignancy .
+
+At this point , the interpretation of this information becomes problematic .
+Spontaneous DMPM is almost universally associated with significant prior asbestos exposure , which our patient likely did not have given his young age and few years of construction work .
+Malignant mesothelioma almost never presents in less than 20 years from exposure , and is almost exclusively found in men greater than 55 years of age .
+A less likely explanation could be the simultaneous presence of malignant and benign components of the disease from the beginning , the diagnosis made difficult by the overwhelming presence of BMPM in the background .
+A more likely explanation , despite only two isolated reports previously , is that the patient initially had a BMPM , which underwent malignant degeneration .
+This case adds to the growing body of evidence that these two entities are not entirely separate phenomena .
+
+
+Actual Answer = 'Diffuse malignant peritoneal mesotheliomas'
+Predicted Answer = ''

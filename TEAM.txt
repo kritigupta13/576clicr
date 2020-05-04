@@ -1,0 +1,39 @@
+1. Kriti Gupta (kriti.gupta@asu.edu / kgupta54@asu.edu)
+2. Soumya Khare (skhare6@asu.edu)
+3. Aditya Krishna Sai Pulikonda (apulikon@asu.edu)
+4. Walaa Alnasser (walnasse@asu.edu)
+5. Saad Shaikh (sshaikh8@asu.edu)
+
+The works by individuals ( Please add here what are you working on/have done):
+1-  Kriti Gupta : 
+Read CliCR, BERT and other related papers. 
+Wrote code to make data analysis easier. 
+Analyzed data points and showed how the answer can be found. 
+Working on Bidirectional LSTM-CRF
+Context (question) based summarization (of passage) using cosine similarity
+
+2-Soumya Khare : 
+Read CliCR, BERT, BioBert and other related papers, 
+Analyzed the data and explained with reasons as how to find the answers from the passage, 
+Shared 15 datapoints on github and google drive, 
+Worked of Bidirectional LSTM-CRF,
+Tried methods like Text Segmentation, ROUGE(Longest Common Subsequence), Latent Semantic Analysis for Context based summarization of the passage according to question.
+
+
+3-Aditya Krishna Sai Pulikonda:
+Read CliCR , BioBERT and related papers. 
+Worked on running the baseline code and implemented SQuAD v1.1, v2.0 on BERTBase to gain a good understanding of QA datasets and BERT model. 
+Applied BERT on the converted CliCR dataset and currently working on running CliCR on BioBert
+
+4- Walaa Alnasser:
+Read CliCR dataset paperm read BERT paper, and other related research papers and articals. 
+Analyze the data and illustrate the example to show how to find the answer from the passage. Share one example on github and on google drive, trying to understand how to Run BERT and run some basic examples. 
+Writing the report on overleaf.
+Currently, working on Text Summarization to reduce the training dataset.
+
+
+5-Saad Shaikh:
+Read CliCR research paper that was written by the original creators of this project. 
+Tried running the baseline models but came across a lot of errors. 
+Proceeded by performing data analysis on the training data for the time being and tried to understand the format of the data by illustrating an example of how the answer is fitting into the placeholder tag in the query and where the answer is originating from. 
+
