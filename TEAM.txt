@@ -17,6 +17,7 @@ Read CliCR, BERT, BioBert and other related papers,
 Analyzed the data and explained with reasons as how to find the answers from the passage, 
 Shared 15 datapoints on github and google drive, 
 Worked of Bidirectional LSTM-CRF,
+Worked on Error Analysis,
 Tried methods like Text Segmentation, ROUGE(Longest Common Subsequence), Latent Semantic Analysis for Context based summarization of the passage according to question.
 
 
