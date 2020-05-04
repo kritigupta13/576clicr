@@ -74,7 +74,9 @@ We have used 4 different versions of the clicr dataset and have performed our ex
 5. BioBERT (Pretrained on Squad Train set)
 
 We have the following types of datasets.
-                                              Type 1 (Only one gold answer)
+                                            
+																							Type 1 (Only one gold answer)
+                                              
 Version 1.1 - contains only those queries for which an answer can be found in the dataset
 Version 2.0 - contains all the queries irrespective of whether an answer can be found in the dataset or not
 
