@@ -54,6 +54,7 @@ Additionally,
 we have made a script "data.py" using which we performed analysis on our dataset. This file returns the context, query and answer that can  be found in the passage. We have done the analysis by picking one case report each in training, development and test set. The screenshots of the outputs can be seen in Analysis folder of this repo
 
 Phase 2 contains
+
 Analysis file similar to phase 1 that contains the analysis and code we have used to prepare the version 2 of clicr data that is similar to squad v2.0
 
 Summarization folder contains the contexthelper.py file that performs extractive summarization and returns the summarized context that the model makes use of to predict an answer. It reduces the search space for the model and forces it to find an answer in the reduced context rather than the whole context. 
@@ -75,12 +76,13 @@ We have used 4 different versions of the clicr dataset and have performed our ex
 
 We have the following types of datasets.
                                             
-																							Type 1 (Only one gold answer)
+Type 1 (Only one gold answer)
                                               
 Version 1.1 - contains only those queries for which an answer can be found in the dataset
 Version 2.0 - contains all the queries irrespective of whether an answer can be found in the dataset or not
 
-                                              Type 2 (Multiple gold answers)
+Type 2 (Multiple gold answers)
+
 Version 1.1 - contains only those queries for which an answer can be found in the dataset, but a query can have more than one gold answer.
 Version 2.0 - contains all the queries irrespective of whether an answer can be found in the dataset or not. If an answer can be found verbatim in the passage for a query, such queries have more than one gold answer. If not, the gold answer for such queries is stored as an empty string.
 
