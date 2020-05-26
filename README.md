@@ -4,7 +4,7 @@ The project contains two Phases - Phase 1 and Phase 2
 
 Phase 1 contains
 
-1. "Analysis" that contains the analysis we performed both on CliCR and SQuAD v1.1 datasets. This is a breif  description of the 
+1. "Analysis" that contains the analysis we performed both on CliCR and SQuAD v1.1 datasets. This is a brief  description of the 
 
   1.1 Analysis.ipynb file
 
@@ -29,22 +29,22 @@ Phase 1 contains
 
 Command to run BERT -
 
-python run_squad.py
---model_type bert \
---do_eval \
---model_name_or_path  bert-base-uncased \
---do_lower_case \
---train_file bert_train.json \
---predict_file bert_dev.json \
---per_gpu_train_batch_size 16 \
---learning_rate 3e-5 \
---num_train_epochs 2.0  \
---max_seq_length 128 \
---gradient_accumulation_steps 2  \
---doc_stride 32 \
---output_dir output_bertbase_clicr_bert \
---logging_steps 5000 \
---save_steps 5000 \
+! python run_squad.py \
+  --model_type bert \
+  --do_eval \
+  --model_name_or_path  bert-base-uncased \
+  --do_lower_case \
+  --train_file bert_train.json \
+  --predict_file bert_dev.json \
+  --per_gpu_train_batch_size 16 \
+  --learning_rate 3e-5 \
+  --num_train_epochs 2.0  \
+  --max_seq_length 128 \
+  --gradient_accumulation_steps 2  \
+  --doc_stride 32 \
+  --output_dir output_bertbase_clicr_bert \
+  --logging_steps 5000 \
+  --save_steps 5000 \
 
 In the above command -
 "train_file" and "predict_file" arguments takes path of train and dev files respectively.
